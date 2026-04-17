@@ -36,7 +36,7 @@ Moran’s I spatial analysis reveals modest but statistically significant cluste
 ## Results Visualization
 
 ### Top Countries by Production in 2024
-![Top Countries by production]([outputs/figures/fig1_risk_vs_yield.png](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/Top%20Countries%20by%20production.png))
+![Top Countries by production](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/Top%20Countries%20by%20production.png)
 
 * China dominates production (**873.94 million tons**)
 * India is a distant second (**525.30 million tons**)
@@ -45,14 +45,14 @@ Moran’s I spatial analysis reveals modest but statistically significant cluste
 
 ### Climate Risk vs Yield
 
-![Risk vs Yield]([outputs/figures/fig1_risk_vs_yield.png](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/climate%20risk%20vs%20yield.png))
+![Risk vs Yield](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/climate%20risk%20vs%20yield.png)
 
 * Crop response to climate risk is heterogeneous: root crops show increasing yields under higher risk, while vegetables exhibit slight sensitivity, and staple crops (cereals, pulses) remain relatively stable.
 ---
 
 ### Country level Production vs Climate Risk
 
-![Country level Production vs Climate Risk]([outputs/figures/fig2_temp_rain_vs_yield.png](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/Country%20level%20Production%20vs%20Climate%20Risk.png))
+![Country level Production vs Climate Risk](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/Country%20level%20Production%20vs%20Climate%20Risk.png)
 
 Slight positive relationship between climate risk and production.
 High-production countries like China (873.94) and India (525.30) operate under moderate–high risk levels
@@ -65,7 +65,7 @@ Climate risk alone does not significantly reduce total production output
 
 ### Production per capita vs Country
 
-![Production per capita vs country]([outputs/figures/fig3_scenario_projection.png](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/Production%20per%20capita%20vs%20country.png))
+![Production per capita vs country](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/Production%20per%20capita%20vs%20country.png)
 
 * Malaysia leads with the highest production per person (490), followed by Thailand (380) and Kazakhstan (210)
 * Mid-tier countries include Turkey, Indonesia, and China (150–200 range)
@@ -74,7 +74,7 @@ Climate risk alone does not significantly reduce total production output
 ---
 
 ### Food Availability vs Climate Risk
-![food availability vs climate ris]([outputs/figures/fig4_risk_distribution.png](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/food%20availability%20vs%20climate%20ris.png))
+![food availability vs climate ris](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/food%20availability%20vs%20climate%20ris.png)
 
 * Weak or no clear relationship between climate risk and food availability
 * Some high-risk countries (e.g., Oman, Saudi Arabia) maintain moderate availability, while some low-risk countries show lower output
@@ -89,27 +89,20 @@ Climate risk alone does not significantly reduce total production output
 
 ---
 
-### Food Availability vs Climate Risk
-![food availability vs climate ris]([outputs/figures/fig4_risk_distribution.png](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/food%20availability%20vs%20climate%20ris.png))
-
-* Weak or no clear relationship between climate risk and food availability
-* Some high-risk countries (e.g., Oman, Saudi Arabia) maintain moderate availability, while some low-risk countries show lower output
+### OLS Regression
+![OLS Regression](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/6299a9d1c8bdd4444ced62c00cd76a2db97b68fa/Visualizations/ols.png)
 
 ---
 
-### Food Availability vs Climate Risk
-![food availability vs climate ris]([outputs/figures/fig4_risk_distribution.png](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/food%20availability%20vs%20climate%20ris.png))
-
-* Weak or no clear relationship between climate risk and food availability
-* Some high-risk countries (e.g., Oman, Saudi Arabia) maintain moderate availability, while some low-risk countries show lower output
+### Random Forest
+![Random Forest](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/6299a9d1c8bdd4444ced62c00cd76a2db97b68fa/Visualizations/random%20forest.png)
 
 ---
 
-### Food Availability vs Climate Risk
-![food availability vs climate ris]([outputs/figures/fig4_risk_distribution.png](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/58825436a8422ce0ed5e269091afcb6adb1b0ec8/Visualizations/food%20availability%20vs%20climate%20ris.png))
+### Polynomial Regression
+![Polynomial Regression](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/6299a9d1c8bdd4444ced62c00cd76a2db97b68fa/Visualizations/poly%201.png)
 
-* Weak or no clear relationship between climate risk and food availability
-* Some high-risk countries (e.g., Oman, Saudi Arabia) maintain moderate availability, while some low-risk countries show lower output
+![Polynomial Regression](https://github.com/TasMumu/agricultural-productivity-climate-risk/blob/6299a9d1c8bdd4444ced62c00cd76a2db97b68fa/Visualizations/poly%202.png)
 
 ---
 
